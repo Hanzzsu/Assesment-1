@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assesment 1</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="pilih">Pilih</string>
+    <string name="maju">Maju</string>
+    <string name="mundur">Mundur</string>
+    <string name="copyright">MY book adalah aplikasi jual beli buku murah terpercaya AYOOOO COBAIN BELI !!!!!!!\n\nCopyright © 2024 M Raihan Al Ayyubi-6706220021</string>
+    <string name="kembali">Kembali</string>
+    <string name="nama">Nama</string>
+    <string name="kanan"> + </string>
+    <string name="kiri"> - </string>
+    <string name="digital">Digital</string>
+    <string name="cetak">Cetak</string>
+    <string name="tipe_buku">Tipe Buku</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="pesan">Pesan</string>
+    <string name="input_invalid">Tidak boleh kosong</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Nama: %1$s\nJenis Buku: %2$s\nHarga:%3$,.2f</string>
+
+</resources>
